@@ -1,1 +1,3 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+<img src="https://en.wikipedia.org/wiki/Markdown#/media/File:Markdown-mark.svg"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
